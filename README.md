@@ -5,7 +5,7 @@ This project explores **airline pricing patterns and trends** through **Explorat
 
 ---
 
-**Key Analysis Areas:**
+## **Key Analysis Areas:**
 
 - Does the **time of day** (morning, afternoon, evening) impact flight prices?
 - Which **airlines** have the **highest and lowest average prices**?
@@ -15,7 +15,7 @@ This project explores **airline pricing patterns and trends** through **Explorat
 
 ---
 
-**Techniques & Tools Used:**
+## **Techniques & Tools Used:**
 
 - **Data Cleaning & Preprocessing:** Handled missing values, corrected data types, and standardized columns  
 - **Feature Engineering:** Extracted and created new variables like time blocks, duration in minutes, and stop categories  
@@ -23,7 +23,7 @@ This project explores **airline pricing patterns and trends** through **Explorat
 
 ---
 
-**Libraries:**
+## **Libraries:**
 
 - `Pandas` for data manipulation  
 - `NumPy` for numerical operations  
@@ -31,7 +31,7 @@ This project explores **airline pricing patterns and trends** through **Explorat
 
 ---
 
-**Key Insights Discovered:**
+## **Key Insights Discovered:**
 
 - Flights during certain times of day tend to be more expensive  
 - Some routes and airlines consistently show higher pricing  
@@ -40,7 +40,7 @@ This project explores **airline pricing patterns and trends** through **Explorat
 
 ---
 
-**Skills Gained:**
+## **Skills Gained:**
 
 - Real-world **EDA techniques** on complex datasets  
 - **Feature engineering** to improve analytical depth  
